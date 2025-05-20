@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on my own 3D action game.<br>🤝 I’m looking for new opportunity. <br>⚡ Working as game developer since 2021.
+# 🎮 Hi, I'm Anwar — Game Developer and Creative Technologist
+- 🎓 Holder of a BSc (Hons) in Game Development
+- 🚀 Actively seeking new opportunities in the game industry
+- 🛠️ Specializing in immersive gameplay mechanics, tools & systems programming, and game architecture
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anwarr_) 
@@ -12,7 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-%2523E34F26.svg?style=for-the-badge&logo=hlsl&logoColor=blue)
+![GLSL](https://img.shields.io/badge/GLSL-%25235686A5.svg?style=for-the-badge&logo=opengl&logoColor=white)
 
 ### Tools & Frameworks:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -24,7 +28,10 @@
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) 
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+![XBOX GDK](https://img.shields.io/badge/Xbox_XDK-%252376B900.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![PS4 SDK](https://img.shields.io/badge/PS4_SDK-%230039A6.svg?style=for-the-badge&logo=playstation-5&logoColor=white)
+![PS5 SDK](https://img.shields.io/badge/PS5_SDK-%23000000.svg?style=for-the-badge&logo=playstation-5&logoColor=white)
 
 ### DevOps & Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -48,7 +55,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mahmoud1011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoud1011/mahmoud1011/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoud1011/mahmoud1011/output/github-snake.svg" />
