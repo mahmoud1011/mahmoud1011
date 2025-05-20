@@ -29,6 +29,7 @@
 ### DevOps & Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![SVN](https://img.shields.io/badge/svn-%2523809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahmoud1011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
